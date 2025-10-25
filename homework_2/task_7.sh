@@ -9,7 +9,7 @@ alias lll='ls -la'
 
 # Работа со скриптом
 # $ source homework_2/task_7.sh 
-# tikhon@tikhon:~/Study/HSE/Mentors-Seminar$ lll
+# $ lll
 # total 20
 # drwxrwxr-x 4 tikhon tikhon 4096 окт 25 14:27 .
 # drwxrwxr-x 6 tikhon tikhon 4096 окт 18 14:02 ..
